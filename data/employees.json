@@ -1,0 +1,54 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Sanjay Kumar",
+    "aadhaarNumber": "1234-5678-9012",
+    "photo": "https://example.com/photos/sanjay.jpg",
+    "aadhaarProof": "https://example.com/proofs/sanjay_aadhaar.jpg",
+    "address": "12, First Avenue, Chennai, Tamil Nadu, India",
+    "email": "sanjay.kumar@example.com",
+    "phone": "+919876543210",
+    "department": "Engineering",
+    "dateOfBirth": "1995-04-10",
+    "gender": "Male"
+  },
+  {
+    "id": "EMP002",
+    "name": "Anjali Sharma",
+    "aadhaarNumber": "1234-5678-9013",
+    "photo": "https://example.com/photos/anjali.jpg",
+    "aadhaarProof": "https://example.com/proofs/anjali_aadhaar.jpg",
+    "address": "34, Second Street, Madurai, Tamil Nadu, India",
+    "email": "anjali.sharma@example.com",
+    "phone": "+919876543211",
+    "department": "Sales",
+    "dateOfBirth": "1992-08-15",
+    "gender": "Female"
+  },
+  {
+    "id": "EMP003",
+    "name": "Raj Kana",
+    "aadhaarNumber": "1234-5678-9014",
+    "photo": "https://example.com/photos/ravi.jpg",
+    "aadhaarProof": "https://example.com/proofs/ravi_aadhaar.jpg",
+    "address": "56, Third Lane, Coimbatore, Tamil Nadu, India",
+    "email": "ravi.patel@example.com1",
+    "phone": "+919876543212",
+    "department": "Engineering",
+    "dateOfBirth": "1990-12-20",
+    "gender": "Male"
+  },
+  {
+    "id": "2f34ed89-24a1-4e37-b77b-73795697de50",
+    "name": "Sanjay M",
+    "aadhaarNumber": "eee",
+    "photo": "e",
+    "aadhaarProof": "eee",
+    "address": "Velinipatti",
+    "email": "sanjaykuttyags@gmail.com",
+    "phone": "07868052815",
+    "department": "Marketing",
+    "dateOfBirth": "1950-10-29",
+    "gender": "Male"
+  }
+]
